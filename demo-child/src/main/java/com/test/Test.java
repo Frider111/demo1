@@ -7,6 +7,7 @@ package com.test;
 public class Test {
 
     public static void main(String[] args) {
+        System.out.println("22222222222");
         System.out.println("args = " + args);
     }
 
